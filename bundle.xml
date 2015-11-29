@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adapt_framework>
+    <bundle>
+        <label>jQuery UI</label>
+        <name>jquery_ui</name>
+        <type>extension</type>
+        <version>1.11.4</version>
+        <namespace>/extension/jquery_ui</namespace>
+        <description>Provides jQuery UI Core</description>
+        <copyright>2015 jQuery Foundation</copyright>
+        <license>MIT</license>
+        <depends_on>
+            <bundle>jquery</bundle>
+        </depends_on>
+    </bundle>
+</adapt_framework>
