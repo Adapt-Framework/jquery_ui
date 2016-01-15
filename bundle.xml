@@ -5,12 +5,14 @@
         <name>jquery_ui</name>
         <type>extension</type>
         <version>1.11.4</version>
-        <namespace>/extension/jquery_ui</namespace>
+        <namespace>\jquery\ui</namespace>
         <description>Provides jQuery UI Core</description>
         <copyright>2015 jQuery Foundation</copyright>
         <license>MIT</license>
         <depends_on>
-            <bundle>jquery</bundle>
+            <bundle>
+                <name>jquery</name>
+            </bundle>
         </depends_on>
     </bundle>
 </adapt_framework>
