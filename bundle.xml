@@ -5,6 +5,8 @@
         <name>jquery_ui</name>
         <type>extension</type>
         <version>1.11.4</version>
+        <version_status>release</version_status>
+        <availability>public</availability>
         <namespace>\jquery\ui</namespace>
         <description>Provides jQuery UI Core</description>
         <copyright>2015 jQuery Foundation</copyright>
